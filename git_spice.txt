@@ -1,0 +1,17 @@
+cmlively@dauntless ~/zuma $ git remote add zuma https://github.com/cmlively/zuma.git
+cmlively@dauntless ~/zuma $ git remote add origin https://github.com/cmlively/zuma.git
+fatal: remote origin already exists.
+cmlively@dauntless ~/zuma $ 
+cmlively@dauntless ~/zuma $ 
+cmlively@dauntless ~/zuma $ 
+cmlively@dauntless ~/zuma $ 
+cmlively@dauntless ~/zuma $ git pull https://github.com/cmlively/zuma.gitremote: Counting objects: 6, done.
+remote: Compressing objects: 100% (4/4), done.
+remote: Total 6 (delta 1), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (6/6), done.
+From https://github.com/cmlively/zuma
+ * branch            HEAD       -> FETCH_HEAD
+cmlively@dauntless ~/zuma $ ls
+README.md
+cmlively@dauntless ~/zuma $ less README.md 
+cmlively@dauntless ~/zuma $ 
