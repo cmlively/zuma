@@ -3,4 +3,4 @@ Nascent Data Science Project
 
 I'm a Gemini ****** 
 
-There's no there there.
+There's no there there. Especially in Chicago!!
